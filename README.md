@@ -1,6 +1,6 @@
-Hi I'm @MadnessZmey
-I'm interested in programming and game development
-I'm making a third-person shooter, also in the plans is a VR shooter
+Hi I'm @MadnessZmey.
+I'm interested in programming and game development.
+I'm making a third-person shooter, also in the plans is a VR shooter.
 If anything, write to Madnesszmey@gmail.com
 
 <!---
